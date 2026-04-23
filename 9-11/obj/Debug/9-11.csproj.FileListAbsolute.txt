@@ -1,0 +1,15 @@
+C:\Users\Gidroid\source\repos\9-11\9-11\bin\Debug\9-11.exe.config
+C:\Users\Gidroid\source\repos\9-11\9-11\bin\Debug\9-11.exe
+C:\Users\Gidroid\source\repos\9-11\9-11\bin\Debug\9-11.pdb
+C:\Users\Gidroid\source\repos\9-11\9-11\obj\Debug\9-11.csproj.AssemblyReference.cache
+C:\Users\Gidroid\source\repos\9-11\9-11\obj\Debug\MainWindow.g.cs
+C:\Users\Gidroid\source\repos\9-11\9-11\obj\Debug\App.g.cs
+C:\Users\Gidroid\source\repos\9-11\9-11\obj\Debug\9-11_MarkupCompile.cache
+C:\Users\Gidroid\source\repos\9-11\9-11\obj\Debug\9-11_MarkupCompile.lref
+C:\Users\Gidroid\source\repos\9-11\9-11\obj\Debug\MainWindow.baml
+C:\Users\Gidroid\source\repos\9-11\9-11\obj\Debug\9-11.g.resources
+C:\Users\Gidroid\source\repos\9-11\9-11\obj\Debug\_9_11.Properties.Resources.resources
+C:\Users\Gidroid\source\repos\9-11\9-11\obj\Debug\9-11.csproj.GenerateResource.cache
+C:\Users\Gidroid\source\repos\9-11\9-11\obj\Debug\9-11.csproj.CoreCompileInputs.cache
+C:\Users\Gidroid\source\repos\9-11\9-11\obj\Debug\9-11.exe
+C:\Users\Gidroid\source\repos\9-11\9-11\obj\Debug\9-11.pdb

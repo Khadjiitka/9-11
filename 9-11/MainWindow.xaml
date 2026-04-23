@@ -1,0 +1,28 @@
+﻿<Window x:Class="_9_11.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_9_11"
+        mc:Ignorable="d"
+        Title="Nine-Eleven" Height="400" Width="525">
+    <Canvas Name="MyCanvas" Focusable="True" KeyDown="KeyIsDown" KeyUp="KeyIsUp" Background="LightBlue" Margin="0,0,-50,0">
+
+        <Image Height="145" Width="200" Source="images/clouds.png" Canvas.Left="60" Canvas.Top="162" Tag="cloud" />
+        <Image Height="145" Width="200" Source="images/clouds2.png" Canvas.Left="301" Canvas.Top="147" Tag="cloud" />
+
+        <Image Height="107" Width="66" Source="images/tower_down.PNG" Tag="obs1d" Canvas.Left="198" Canvas.Top="251" RenderTransformOrigin="0.7,0.28" HorizontalAlignment="Center" VerticalAlignment="Center" />
+        <Image Height="103" Width="66" Source="images/tower_top.PNG" Tag="obs1t" HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.Left="198" Canvas.Top="-16" />
+
+        <Image Height="370" Width="66" Source="images/tower_down.PNG" Tag="obs2d" Canvas.Left="319" Canvas.Top="284" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <Image Height="100" Width="66" Source="images/tower_top.PNG" Tag="obs2t" Canvas.Left="319" Canvas.Top="10" HorizontalAlignment="Center" VerticalAlignment="Top" />
+
+        <Image Height="390" Width="66" Source="images/tower_down.PNG" Tag="obs3d" Canvas.Left="434" Canvas.Top="274" HorizontalAlignment="Center" VerticalAlignment="Top" />
+        <Image Height="101" Width="66" Source="images/tower_top.PNG" Tag="obs3t" Canvas.Left="434" Canvas.Top="-16" HorizontalAlignment="Center" VerticalAlignment="Top" />
+
+        <Image Name="flappyBird" Height="101" Width="139" Source="images/Plan.PNG" Stretch="Fill" Canvas.Left="50" Canvas.Top="169" Tag="player" HorizontalAlignment="Left" VerticalAlignment="Top" />
+
+        <Label Name="txtScore" FontSize="22" FontWeight="ExtraBold" Content="Score: 0" />
+
+    </Canvas>
+</Window>
